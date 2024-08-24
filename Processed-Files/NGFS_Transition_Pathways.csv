@@ -1,0 +1,582 @@
+Series,Variable,Scenarios,Unit,2020,2025,2030,2035,2040,2045,2050
+Surface temperature,50th percentile,Below 2°C,Degree Celsius,26.27963,26.44074,26.57359,26.7102,26.82258,26.875,26.94863
+Surface temperature,50th percentile,Current Policies (Hot house world scenario),Degree Celsius,26.32247,26.50297,26.61592,26.75344,26.88264,26.99004,27.14162
+Surface temperature,50th percentile,Delayed Transition (Disorderly scenario),Degree Celsius,26.27894,26.42874,26.55517,26.72458,26.86732,26.93892,27.0121
+Surface temperature,50th percentile,Fragmented World,Degree Celsius,26.28414,26.45171,26.58268,26.74344,26.87692,26.99266,27.11795
+Surface temperature,50th percentile,Low Demand,Degree Celsius,26.27877,26.42427,26.55279,26.68129,26.77904,26.81311,26.82203
+Surface temperature,50th percentile,Nationally Determined Contributions (NDCs),Degree Celsius,26.28444,26.45525,26.58748,26.7468,26.88485,27.00403,27.14938
+Surface temperature,50th percentile,Net Zero 2050 (Orderly scenario),Degree Celsius,26.27984,26.445,26.57917,26.70382,26.78689,26.80483,26.80417
+Surface temperature,50th percentile,Below 2°C,Degree Celsius,26.26554,26.43131,26.58221,26.71417,26.81622,26.86633,26.93365
+Surface temperature,50th percentile,Current Policies (Hot house world scenario),Degree Celsius,26.27036,26.45108,26.57987,26.73919,26.88082,26.99705,27.13546
+Surface temperature,50th percentile,Delayed Transition (Disorderly scenario),Degree Celsius,26.2654,26.42818,26.55228,26.72897,26.86146,26.92045,26.99846
+Surface temperature,50th percentile,Fragmented World,Degree Celsius,26.27047,26.45048,26.58027,26.76172,26.90085,26.98292,27.08359
+Surface temperature,50th percentile,Low Demand,Degree Celsius,26.26556,26.43244,26.60867,26.71504,26.76707,26.7672,26.78708
+Surface temperature,50th percentile,Nationally Determined Contributions (NDCs),Degree Celsius,26.27062,26.45237,26.58097,26.73933,26.86584,26.95834,27.06724
+Surface temperature,50th percentile,Net Zero 2050 (Orderly scenario),Degree Celsius,26.26556,26.43198,26.59294,26.69087,26.74361,26.74341,26.75846
+Surface temperature,50th percentile,Below 2°C,Degree Celsius,26.26949696,26.42780295,26.54946368,26.68378478,26.77431755,26.81091964,26.85784335
+Surface temperature,50th percentile,Current Policies (Hot house world scenario),Degree Celsius,26.26949696,26.4471301,26.56881238,26.72922051,26.86650123,26.98888707,27.14095134
+Surface temperature,50th percentile,Delayed Transition (Disorderly scenario),Degree Celsius,26.26949696,26.4471301,26.56881238,26.69174518,26.82174793,26.86862433,26.90105629
+Surface temperature,50th percentile,Fragmented World,Degree Celsius,26.26949696,26.4471301,26.56881238,26.72657615,26.85995924,26.9574195,27.06002715
+Surface temperature,50th percentile,Low Demand,Degree Celsius,26.26949696,26.43441951,26.55348546,26.63555821,26.64940349,26.60666311,26.57981815
+Surface temperature,50th percentile,Nationally Determined Contributions (NDCs),Degree Celsius,26.26949696,26.44675365,26.56894394,26.72448511,26.82984551,26.90533699,26.99252241
+Surface temperature,50th percentile,Net Zero 2050 (Orderly scenario),Degree Celsius,26.26949696,26.43039125,26.54961246,26.64862989,26.68203207,26.66805503,26.68143111
+Surface temperature,5th percentile,Below 2°C,Degree Celsius,26.17861,26.28229,26.3795,26.46701,26.53166,26.5631,26.6096
+Surface temperature,5th percentile,Current Policies (Hot house world scenario),Degree Celsius,26.1783,26.27934,26.36921,26.47765,26.59227,26.68094,26.81182
+Surface temperature,5th percentile,Delayed Transition (Disorderly scenario),Degree Celsius,26.17834,26.27724,26.37137,26.48879,26.57448,26.6162,26.6629
+Surface temperature,5th percentile,Fragmented World,Degree Celsius,26.1784,26.27885,26.36962,26.47834,26.57589,26.6487,26.74414
+Surface temperature,5th percentile,Low Demand,Degree Celsius,26.17818,26.27675,26.36542,26.45131,26.50023,26.5086,26.50856
+Surface temperature,5th percentile,Nationally Determined Contributions (NDCs),Degree Celsius,26.17857,26.2811,26.37407,26.4781,26.57849,26.65956,26.77053
+Surface temperature,5th percentile,Net Zero 2050 (Orderly scenario),Degree Celsius,26.17867,26.2858,26.37995,26.45243,26.49002,26.49748,26.48655
+Surface temperature,5th percentile,Below 2°C,Degree Celsius,26.17242,26.29025,26.39022,26.4766,26.53788,26.55597,26.5921
+Surface temperature,5th percentile,Current Policies (Hot house world scenario),Degree Celsius,26.17222,26.28841,26.37256,26.48288,26.59279,26.66376,26.76675
+Surface temperature,5th percentile,Delayed Transition (Disorderly scenario),Degree Celsius,26.17222,26.28605,26.37279,26.5016,26.58187,26.6049,26.64256
+Surface temperature,5th percentile,Fragmented World,Degree Celsius,26.17233,26.28831,26.3726,26.49505,26.58952,26.63885,26.70268
+Surface temperature,5th percentile,Low Demand,Degree Celsius,26.17243,26.28944,26.39023,26.44423,26.46566,26.4492,26.44576
+Surface temperature,5th percentile,Nationally Determined Contributions (NDCs),Degree Celsius,26.1725,26.28985,26.37171,26.47897,26.56961,26.62146,26.69872
+Surface temperature,5th percentile,Net Zero 2050 (Orderly scenario),Degree Celsius,26.17243,26.29145,26.39319,26.4526,26.47562,26.45178,26.45495
+Surface temperature,5th percentile,Below 2°C,Degree Celsius,26.16986443,26.28281415,26.37191694,26.46140853,26.50955524,26.51032012,26.53493187
+Surface temperature,5th percentile,Current Policies (Hot house world scenario),Degree Celsius,26.16986443,26.28233992,26.36664927,26.47299483,26.57250923,26.6411181,26.74360034
+Surface temperature,5th percentile,Delayed Transition (Disorderly scenario),Degree Celsius,26.16986443,26.28233992,26.36664927,26.4715657,26.54354126,26.55574866,26.55759985
+Surface temperature,5th percentile,Fragmented World,Degree Celsius,26.16986443,26.28233992,26.36664927,26.47065684,26.55860456,26.60891259,26.67711721
+Surface temperature,5th percentile,Low Demand,Degree Celsius,26.16986443,26.28681808,26.36642909,26.4169083,26.39473779,26.34158109,26.30342323
+Surface temperature,5th percentile,Nationally Determined Contributions (NDCs),Degree Celsius,26.16986443,26.28107248,26.36487144,26.46035113,26.53090891,26.56869864,26.62043504
+Surface temperature,5th percentile,Net Zero 2050 (Orderly scenario),Degree Celsius,26.16986443,26.28293619,26.36767512,26.42732247,26.42849105,26.39224261,26.38371386
+Surface temperature,95th percentile,Below 2°C,Degree Celsius,26.38907,26.6276,26.86812,27.1053,27.28828,27.41009,27.54808
+Surface temperature,95th percentile,Current Policies (Hot house world scenario),Degree Celsius,26.35914,26.59144,26.80955,27.03632,27.27519,27.49741,27.73717
+Surface temperature,95th percentile,Delayed Transition (Disorderly scenario),Degree Celsius,26.38847,26.61328,26.82554,27.10611,27.32627,27.47336,27.61397
+Surface temperature,95th percentile,Fragmented World,Degree Celsius,26.35932,26.59131,26.80974,27.04723,27.27984,27.46962,27.66411
+Surface temperature,95th percentile,Low Demand,Degree Celsius,26.38829,26.60839,26.83264,27.05929,27.23094,27.33449,27.3785
+Surface temperature,95th percentile,Nationally Determined Contributions (NDCs),Degree Celsius,26.35953,26.59664,26.82031,27.05537,27.28786,27.48376,27.69675
+Surface temperature,95th percentile,Net Zero 2050 (Orderly scenario),Degree Celsius,26.38928,26.63317,26.88176,27.10791,27.26605,27.34926,27.3654
+Surface temperature,95th percentile,Below 2°C,Degree Celsius,26.37216,26.62466,26.88053,27.11219,27.28375,27.39429,27.53436
+Surface temperature,95th percentile,Current Policies (Hot house world scenario),Degree Celsius,26.34384,26.59669,26.798,27.03112,27.27879,27.48192,27.70404
+Surface temperature,95th percentile,Delayed Transition (Disorderly scenario),Degree Celsius,26.372,26.61839,26.81391,27.10756,27.33311,27.4563,27.59887
+Surface temperature,95th percentile,Fragmented World,Degree Celsius,26.34391,26.59626,26.79867,27.07044,27.31755,27.49337,27.66032
+Surface temperature,95th percentile,Low Demand,Degree Celsius,26.37217,26.62661,26.92476,27.13932,27.26452,27.31773,27.37615
+Surface temperature,95th percentile,Nationally Determined Contributions (NDCs),Degree Celsius,26.34406,26.60007,26.8058,27.03525,27.27123,27.44469,27.62928
+Surface temperature,95th percentile,Net Zero 2050 (Orderly scenario),Degree Celsius,26.37217,26.62585,26.89706,27.09403,27.19514,27.24466,27.30524
+Surface temperature,95th percentile,Below 2°C,Degree Celsius,26.33954323,26.61526212,26.80984614,27.04387878,27.21955512,27.32187259,27.43543159
+Surface temperature,95th percentile,Current Policies (Hot house world scenario),Degree Celsius,26.33954323,26.58987265,26.77614862,27.02065717,27.25285805,27.46882753,27.71006077
+Surface temperature,95th percentile,Delayed Transition (Disorderly scenario),Degree Celsius,26.33954323,26.58987265,26.77614862,27.04089548,27.26005723,27.37619154,27.48313444
+Surface temperature,95th percentile,Fragmented World,Degree Celsius,26.33954323,26.58987265,26.77614862,27.01741256,27.25112282,27.44377268,27.62889421
+Surface temperature,95th percentile,Low Demand,Degree Celsius,26.33954323,26.59648594,26.78595396,26.95523285,27.0468348,27.04045872,27.05981572
+Surface temperature,95th percentile,Nationally Determined Contributions (NDCs),Degree Celsius,26.33954323,26.58757237,26.77942896,27.01650355,27.23399919,27.38609532,27.54797192
+Surface temperature,95th percentile,Net Zero 2050 (Orderly scenario),Degree Celsius,26.33954323,26.61839907,26.81666154,27.0192397,27.12056243,27.1453214,27.19657261
+Emissions and CCS,Bioenergy with CCS,Below 2°C,Mt CO2/yr,1.4834,1.3104,1.9067,7.658,22.4994,44.018,84.4775
+Emissions and CCS,Bioenergy with CCS,Current Policies (Hot house world scenario),Mt CO2/yr,1.4834,1.4565,1.007,1.1425,1.3021,1.1263,0.9226
+Emissions and CCS,Bioenergy with CCS,Delayed Transition (Disorderly scenario),Mt CO2/yr,1.4826,1.4555,1.0067,2.7455,5.7796,4.4857,10.172
+Emissions and CCS,Bioenergy with CCS,Fragmented World,Mt CO2/yr,1.4833,1.4565,1.007,1.3914,4.094,6.7419,6.3418
+Emissions and CCS,Bioenergy with CCS,Low Demand,Mt CO2/yr,1.4834,1.3654,1.9029,8.9891,18.1922,34.9788,170.6753
+Emissions and CCS,Bioenergy with CCS,Nationally Determined Contributions (NDCs),Mt CO2/yr,1.4833,1.4289,0.2874,0.5193,0.7512,0.7284,0.8287
+Emissions and CCS,Bioenergy with CCS,Net Zero 2050 (Orderly scenario),Mt CO2/yr,1.4833,1.3249,2.3168,7.0358,24.8397,52.5647,203.1053
+Emissions and CCS,Bioenergy with CCS,Below 2°C,Mt CO2/yr,0,0,2.9182,7.8063,10.3938,20.8023,35.9591
+Emissions and CCS,Bioenergy with CCS,Current Policies (Hot house world scenario),Mt CO2/yr,0,0,0,0,0,0,0
+Emissions and CCS,Bioenergy with CCS,Delayed Transition (Disorderly scenario),Mt CO2/yr,0,0,0,2.9449,7.834,16.1145,24.7132
+Emissions and CCS,Bioenergy with CCS,Fragmented World,Mt CO2/yr,0,0,0,2.9141,7.8133,15.857,29.1498
+Emissions and CCS,Bioenergy with CCS,Low Demand,Mt CO2/yr,0,0,1.0569,10.5854,20.8113,41.6607,64.8458
+Emissions and CCS,Bioenergy with CCS,Nationally Determined Contributions (NDCs),Mt CO2/yr,0,0,0,0,0,0,0
+Emissions and CCS,Bioenergy with CCS,Net Zero 2050 (Orderly scenario),Mt CO2/yr,0,0,2.9645,8.1456,16.9124,29.0535,46.1521
+Emissions and CCS,Bioenergy with CCS,Below 2°C,Mt CO2/yr,0,0,0,0.9451,11.081,26.313,29.1567
+Emissions and CCS,Bioenergy with CCS,Current Policies (Hot house world scenario),Mt CO2/yr,0,0,0,0,0,0,0
+Emissions and CCS,Bioenergy with CCS,Delayed Transition (Disorderly scenario),Mt CO2/yr,0,0,0,1.0708,20.2284,57.8113,101.1006
+Emissions and CCS,Bioenergy with CCS,Fragmented World,Mt CO2/yr,0,0,0,0,0,0,0
+Emissions and CCS,Bioenergy with CCS,Low Demand,Mt CO2/yr,0,0,0,14.1498,46.9277,93.7619,158.0257
+Emissions and CCS,Bioenergy with CCS,Nationally Determined Contributions (NDCs),Mt CO2/yr,0,0,0,0.0012,0.0003,0.0131,0.0321
+Emissions and CCS,Bioenergy with CCS,Net Zero 2050 (Orderly scenario),Mt CO2/yr,0,0,8.9151,33.1304,75.1644,154.7524,259.467
+Primary energy,Biomass,Below 2°C,EJ/yr,9.6577,8.1824,7.5986,6.2008,4.6063,3.4318,2.941
+Primary energy,Biomass,Current Policies (Hot house world scenario),EJ/yr,9.6578,8.3061,7.5427,7.0018,6.3497,5.6114,4.9759
+Primary energy,Biomass,Delayed Transition (Disorderly scenario),EJ/yr,9.6592,8.3033,7.5386,6.555,4.4483,2.9413,1.9972
+Primary energy,Biomass,Fragmented World,EJ/yr,9.6577,8.3058,7.5411,6.7789,5.4096,3.803,2.6559
+Primary energy,Biomass,Low Demand,EJ/yr,9.6576,8.3254,8.2845,6.4104,4.2587,2.756,3.6481
+Primary energy,Biomass,Nationally Determined Contributions (NDCs),EJ/yr,9.6577,8.3115,6.7446,5.7819,4.9862,4.2409,3.6448
+Primary energy,Biomass,Net Zero 2050 (Orderly scenario),EJ/yr,9.6573,8.1225,6.7772,4.7609,3.2353,2.1991,3.5584
+Primary energy,Biomass,Below 2°C,EJ/yr,10.706,10.3487,10.0409,9.9676,9.4787,9.1197,9.1232
+Primary energy,Biomass,Current Policies (Hot house world scenario),EJ/yr,10.7522,10.8741,10.8279,10.0113,9.1471,7.7092,5.9404
+Primary energy,Biomass,Delayed Transition (Disorderly scenario),EJ/yr,10.7515,10.8736,10.8271,10.9189,10.5415,10.1164,9.2003
+Primary energy,Biomass,Fragmented World,EJ/yr,10.7116,10.8415,10.8,10.568,10.1576,9.1539,7.8142
+Primary energy,Biomass,Low Demand,EJ/yr,10.7078,10.311,9.7418,8.1502,7.1308,6.67,6.3421
+Primary energy,Biomass,Nationally Determined Contributions (NDCs),EJ/yr,10.7043,10.3426,9.7986,8.6946,7.9729,6.4363,5.2043
+Primary energy,Biomass,Net Zero 2050 (Orderly scenario),EJ/yr,10.7063,10.3455,10.5483,11.3096,11.9267,11.3311,10.8937
+Primary energy,Biomass,Below 2°C,EJ/yr,8.0879,7.2881,6.2896,5.2638,4.3912,4.1226,4.5102
+Primary energy,Biomass,Current Policies (Hot house world scenario),EJ/yr,8.0879,7.2881,6.2847,5.2148,4.1237,3.1496,2.3487
+Primary energy,Biomass,Delayed Transition (Disorderly scenario),EJ/yr,8.0879,7.2881,6.2847,5.29,4.7229,4.7667,4.3692
+Primary energy,Biomass,Fragmented World,EJ/yr,8.0879,7.2881,6.2847,5.2561,4.241,3.4506,3.0107
+Primary energy,Biomass,Low Demand,EJ/yr,8.0879,7.2618,6.2898,5.4438,5.0442,5.0293,4.9924
+Primary energy,Biomass,Nationally Determined Contributions (NDCs),EJ/yr,8.0879,7.2854,6.2848,5.2175,4.1141,3.1205,2.3058
+Primary energy,Biomass,Net Zero 2050 (Orderly scenario),EJ/yr,8.0879,7.3189,6.474,5.915,5.429,5.4147,6.124
+Primary energy,Coal,Below 2°C,EJ/yr,17.5297,18.2448,14.2758,10.6939,8.3737,7.211,6.8984
+Primary energy,Coal,Current Policies (Hot house world scenario),EJ/yr,17.5297,20.5275,22.5741,24.2121,26.095,27.4565,28.3406
+Primary energy,Coal,Delayed Transition (Disorderly scenario),EJ/yr,17.5337,20.5301,22.5746,18.1146,13.6954,9.9748,7.7468
+Primary energy,Coal,Fragmented World,EJ/yr,17.53,20.5262,22.5701,21.0342,17.5962,13.859,10.5898
+Primary energy,Coal,Low Demand,EJ/yr,17.5299,18.3717,13.9735,9.4878,6.7376,6.0239,5.7087
+Primary energy,Coal,Nationally Determined Contributions (NDCs),EJ/yr,17.5297,19.7319,21.4919,23.1402,24.334,24.4621,23.9346
+Primary energy,Coal,Net Zero 2050 (Orderly scenario),EJ/yr,17.5301,17.8841,11.2278,7.4631,6.5619,6.304,5.5914
+Primary energy,Coal,Below 2°C,EJ/yr,18.7949,22.6232,11.3561,5.4045,4.3354,2.5293,1.9155
+Primary energy,Coal,Current Policies (Hot house world scenario),EJ/yr,18.8012,22.5886,25.9708,29.0309,32.1438,29.737,30.9403
+Primary energy,Coal,Delayed Transition (Disorderly scenario),EJ/yr,18.8112,22.6077,26.0006,13.2664,6.8547,3.9591,3.1224
+Primary energy,Coal,Fragmented World,EJ/yr,18.8056,22.5984,25.9753,17.5376,12.4178,7.4216,4.3235
+Primary energy,Coal,Low Demand,EJ/yr,18.8033,22.6783,9.6725,4.0564,3.0982,2.3938,1.8881
+Primary energy,Coal,Nationally Determined Contributions (NDCs),EJ/yr,18.7909,22.6165,25.5103,26.1285,26.3499,21.3506,17.2606
+Primary energy,Coal,Net Zero 2050 (Orderly scenario),EJ/yr,18.7819,22.5973,10.492,4.6984,3.6248,3.2536,2.362
+Primary energy,Coal,Below 2°C,EJ/yr,22.635,23.4711,21.4904,14.39,7.9693,4.3311,1.5381
+Primary energy,Coal,Current Policies (Hot house world scenario),EJ/yr,22.635,23.8753,26.0603,28.3993,30.0198,32.338,37.8082
+Primary energy,Coal,Delayed Transition (Disorderly scenario),EJ/yr,22.635,23.8753,26.0603,26.7864,12.9203,1.6809,0.5207
+Primary energy,Coal,Fragmented World,EJ/yr,22.635,23.8753,26.0603,27.6491,17.807,10.1695,6.5532
+Primary energy,Coal,Low Demand,EJ/yr,22.635,22.7589,11.417,3.3697,0.4525,0.3425,0.2366
+Primary energy,Coal,Nationally Determined Contributions (NDCs),EJ/yr,22.635,23.4327,21.3375,15.2314,10.9493,9.8744,9.3096
+Primary energy,Coal,Net Zero 2050 (Orderly scenario),EJ/yr,22.635,23.0079,12.9332,4.8397,0.6775,0.2639,0.1786
+Final energy,Electricity,Below 2°C,EJ/yr,4.1838,6.6705,8.6957,11.4658,14.952,18.9461,23.5532
+Final energy,Electricity,Current Policies (Hot house world scenario),EJ/yr,4.1838,6.9895,8.771,11.0403,13.6898,16.4551,19.2336
+Final energy,Electricity,Delayed Transition (Disorderly scenario),EJ/yr,4.1808,6.9846,8.7655,11.3079,14.5213,18.2229,22.529
+Final energy,Electricity,Fragmented World,EJ/yr,4.1838,6.9894,8.7709,11.0584,14.0675,17.4388,21.1677
+Final energy,Electricity,Low Demand,EJ/yr,4.1838,6.2804,7.6693,10.0833,13.4428,17.6686,22.457
+Final energy,Electricity,Nationally Determined Contributions (NDCs),EJ/yr,4.1838,6.9122,8.6666,11.4893,14.2561,16.9532,19.8471
+Final energy,Electricity,Net Zero 2050 (Orderly scenario),EJ/yr,4.1838,6.6951,8.7428,11.9253,16.0614,21.0319,26.5127
+Final energy,Electricity,Below 2°C,EJ/yr,4.9433,6.1395,7.3972,9.0828,10.9038,13.3339,16.3701
+Final energy,Electricity,Current Policies (Hot house world scenario),EJ/yr,4.8416,6.183,7.6444,9.2887,10.5744,11.9438,13.8434
+Final energy,Electricity,Delayed Transition (Disorderly scenario),EJ/yr,4.8333,6.1589,7.6001,9.1411,11.2642,13.8097,16.9269
+Final energy,Electricity,Fragmented World,EJ/yr,4.9246,6.2279,7.6442,8.9621,10.4423,12.1169,14.3298
+Final energy,Electricity,Low Demand,EJ/yr,4.9076,6.1689,6.9959,9.2323,11.1665,12.7872,14.4657
+Final energy,Electricity,Nationally Determined Contributions (NDCs),EJ/yr,4.9329,6.1157,7.5404,8.9918,10.3836,11.9595,13.6816
+Final energy,Electricity,Net Zero 2050 (Orderly scenario),EJ/yr,4.963,6.1981,7.0991,9.5591,12.3299,15.6073,18.483
+Final energy,Electricity,Below 2°C,EJ/yr,4.4802,6.5757,9.861,12.8466,15.8326,19.522,22.9874
+Final energy,Electricity,Current Policies (Hot house world scenario),EJ/yr,4.4802,6.5562,9.4762,12.6464,15.0924,17.4751,20.7631
+Final energy,Electricity,Delayed Transition (Disorderly scenario),EJ/yr,4.4802,6.5562,9.4762,12.9375,15.8951,18.8552,22.7405
+Final energy,Electricity,Fragmented World,EJ/yr,4.4802,6.5562,9.4762,12.5087,14.7983,17.4979,20.8128
+Final energy,Electricity,Low Demand,EJ/yr,4.4802,6.2735,7.7307,9.7641,12.2384,14.7048,17.132
+Final energy,Electricity,Nationally Determined Contributions (NDCs),EJ/yr,4.4802,6.6062,9.8892,12.735,15.3843,18.7295,22.1726
+Final energy,Electricity,Net Zero 2050 (Orderly scenario),EJ/yr,4.4802,6.701,9.5131,12.5686,16.6719,20.8443,24.3721
+Emissions and CCS,Energy and industrial processes CO2 emissions,Below 2°C,Mt CO2/yr,2601.3515,3035.3821,2650.415,2280.0937,1924.4393,1582.0622,1252.3014
+Emissions and CCS,Energy and industrial processes CO2 emissions,Current Policies (Hot house world scenario),Mt CO2/yr,2601.3523,3164.5948,3653.5194,3988.4863,4291.7351,4558.021,4794.2295
+Emissions and CCS,Energy and industrial processes CO2 emissions,Delayed Transition (Disorderly scenario),Mt CO2/yr,2600.9177,3164.0843,3653.6528,3138.1995,2631.8275,2145.0264,1676.8001
+Emissions and CCS,Energy and industrial processes CO2 emissions,Fragmented World,Mt CO2/yr,2601.3521,3164.5218,3653.5383,3582.0655,3145.2294,2724.6905,2320.0998
+Emissions and CCS,Energy and industrial processes CO2 emissions,Low Demand,Mt CO2/yr,2601.3526,3003.9191,2520.9236,2056.212,1610.2612,1181.2067,768.1001
+Emissions and CCS,Energy and industrial processes CO2 emissions,Nationally Determined Contributions (NDCs),Mt CO2/yr,2601.352,3116.6101,3600.9889,3903.5863,4108.6202,4221.2325,4261.8675
+Emissions and CCS,Energy and industrial processes CO2 emissions,Net Zero 2050 (Orderly scenario),Mt CO2/yr,2601.353,2987.4471,2284.8259,1787.8671,1400.9685,1003.591,589.543
+Emissions and CCS,Energy and industrial processes CO2 emissions,Below 2°C,Mt CO2/yr,2811.9612,3445.4216,2714.5061,2273.1205,2245.4451,1866.4776,1519.8859
+Emissions and CCS,Energy and industrial processes CO2 emissions,Current Policies (Hot house world scenario),Mt CO2/yr,2814.9571,3357.71,3751.433,4294.1265,4762.9018,4799.3972,5035.3652
+Emissions and CCS,Energy and industrial processes CO2 emissions,Delayed Transition (Disorderly scenario),Mt CO2/yr,2815.5783,3359.3707,3753.767,2883.4449,2189.9071,1623.9656,1260.9863
+Emissions and CCS,Energy and industrial processes CO2 emissions,Fragmented World,Mt CO2/yr,2814.9572,3355.4143,3752.194,3338.597,2924.681,2502.7872,2095.3938
+Emissions and CCS,Energy and industrial processes CO2 emissions,Low Demand,Mt CO2/yr,2805.4108,3429.7473,1994.1935,1244.5997,979.135,630.9611,335.4461
+Emissions and CCS,Energy and industrial processes CO2 emissions,Nationally Determined Contributions (NDCs),Mt CO2/yr,2815.6156,3453.0339,3926.2988,4257.2895,4430.7974,4120.924,3921.1712
+Emissions and CCS,Energy and industrial processes CO2 emissions,Net Zero 2050 (Orderly scenario),Mt CO2/yr,2813.188,3447.115,2000.1071,1299.1134,1018.3338,721.5158,530.5084
+Emissions and CCS,Energy and industrial processes CO2 emissions,Below 2°C,Mt CO2/yr,3254.3236,3679.6535,3755.6227,3153.0868,2435.3467,1811.621,1281.9147
+Emissions and CCS,Energy and industrial processes CO2 emissions,Current Policies (Hot house world scenario),Mt CO2/yr,3254.3236,3688.8022,4192.6785,4568.704,4760.0673,4893.8455,5267.2759
+Emissions and CCS,Energy and industrial processes CO2 emissions,Delayed Transition (Disorderly scenario),Mt CO2/yr,3254.3236,3688.8022,4192.6785,4344.6174,2819.4364,1443.2354,962.696
+Emissions and CCS,Energy and industrial processes CO2 emissions,Fragmented World,Mt CO2/yr,3254.3236,3688.8022,4192.6785,4551.6272,3557.4215,2663.7966,2007.5197
+Emissions and CCS,Energy and industrial processes CO2 emissions,Low Demand,Mt CO2/yr,3254.3236,3512.9289,2422.0086,1584.1967,1089.4786,774.0406,440.171
+Emissions and CCS,Energy and industrial processes CO2 emissions,Nationally Determined Contributions (NDCs),Mt CO2/yr,3254.3236,3639.7459,3687.068,3284.7915,2970.2109,2875.3681,2752.7758
+Emissions and CCS,Energy and industrial processes CO2 emissions,Net Zero 2050 (Orderly scenario),Mt CO2/yr,3254.3236,3581.8253,2788.0838,1859.4317,1195.1064,695.7959,210.2301
+Emissions and CCS,Fossil energy CCS,Below 2°C,Mt CO2/yr,0.043,7.6606,54.9683,131.9238,227.6766,307.8667,366.3597
+Emissions and CCS,Fossil energy CCS,Current Policies (Hot house world scenario),Mt CO2/yr,0.043,7.878,17.2301,30.2538,50.5116,68.1234,80.6403
+Emissions and CCS,Fossil energy CCS,Delayed Transition (Disorderly scenario),Mt CO2/yr,0.043,7.874,17.2275,73.4784,170.1838,261.4139,334.7323
+Emissions and CCS,Fossil energy CCS,Fragmented World,Mt CO2/yr,0.043,7.8783,17.2303,52.6316,132.4119,215.4792,286.7314
+Emissions and CCS,Fossil energy CCS,Low Demand,Mt CO2/yr,0.043,5.9903,41.2617,116.4002,213.0524,295.8211,337.3944
+Emissions and CCS,Fossil energy CCS,Nationally Determined Contributions (NDCs),Mt CO2/yr,0.043,7.6193,17.2593,33.2702,60.414,86.4169,108.1899
+Emissions and CCS,Fossil energy CCS,Net Zero 2050 (Orderly scenario),Mt CO2/yr,0.043,8.3397,74.1655,173.9439,273.426,348.6696,360.5751
+Emissions and CCS,Fossil energy CCS,Below 2°C,Mt CO2/yr,0,0,6.5994,17.1081,38.4915,69.2408,129.6915
+Emissions and CCS,Fossil energy CCS,Current Policies (Hot house world scenario),Mt CO2/yr,0,0,0,0,0,0,0
+Emissions and CCS,Fossil energy CCS,Delayed Transition (Disorderly scenario),Mt CO2/yr,0,0,0,30.9569,53.6021,93.128,168.4672
+Emissions and CCS,Fossil energy CCS,Fragmented World,Mt CO2/yr,0,0,0,3.182,11.9649,27.5408,59.7961
+Emissions and CCS,Fossil energy CCS,Low Demand,Mt CO2/yr,0,0,87.0295,89.5075,113.7375,144.6006,197.0629
+Emissions and CCS,Fossil energy CCS,Nationally Determined Contributions (NDCs),Mt CO2/yr,0,0,0,0,0,0,0
+Emissions and CCS,Fossil energy CCS,Net Zero 2050 (Orderly scenario),Mt CO2/yr,0,0,115.4395,88.213,131.4504,187.0729,165.5861
+Emissions and CCS,Fossil energy CCS,Below 2°C,Mt CO2/yr,0,0,0,1.3551,31.8379,119.7149,157.3045
+Emissions and CCS,Fossil energy CCS,Current Policies (Hot house world scenario),Mt CO2/yr,0,0,0,0,0,0,0
+Emissions and CCS,Fossil energy CCS,Delayed Transition (Disorderly scenario),Mt CO2/yr,0,0,0,0.4769,23.1078,74.1881,96.1385
+Emissions and CCS,Fossil energy CCS,Fragmented World,Mt CO2/yr,0,0,0,0,0,0,0
+Emissions and CCS,Fossil energy CCS,Low Demand,Mt CO2/yr,0,0,0,5.2999,26.3251,41.4201,38.4625
+Emissions and CCS,Fossil energy CCS,Nationally Determined Contributions (NDCs),Mt CO2/yr,0,0,0,0.2601,0.2609,0.2474,0.2261
+Emissions and CCS,Fossil energy CCS,Net Zero 2050 (Orderly scenario),Mt CO2/yr,0,0,18.9893,87.5348,125.2132,116.5815,67.2269
+Primary energy,Gas,Below 2°C,EJ/yr,2.5723,4.2147,4.7136,5.3236,5.7772,5.6582,5.0573
+Primary energy,Gas,Current Policies (Hot house world scenario),EJ/yr,2.5723,3.7119,5.2901,6.796,8.3589,10.0184,11.6435
+Primary energy,Gas,Delayed Transition (Disorderly scenario),EJ/yr,2.5719,3.7111,5.2836,5.6036,6.2226,6.5354,6.0858
+Primary energy,Gas,Fragmented World,EJ/yr,2.5723,3.7113,5.2865,6.2382,6.7606,7.3817,7.751
+Primary energy,Gas,Low Demand,EJ/yr,2.5723,3.9826,4.1484,4.6436,4.8852,4.3257,3.9005
+Primary energy,Gas,Nationally Determined Contributions (NDCs),EJ/yr,2.5723,3.8895,5.5874,7.0497,8.5501,9.761,10.8637
+Primary energy,Gas,Net Zero 2050 (Orderly scenario),EJ/yr,2.5723,4.1435,4.4032,4.7536,4.6909,4.085,3.7462
+Primary energy,Gas,Below 2°C,EJ/yr,3.3926,4.488,7.7282,8.3377,8.7742,7.5081,7.2967
+Primary energy,Gas,Current Policies (Hot house world scenario),EJ/yr,3.3518,4.5073,5.2572,5.7927,5.7982,6.8766,6.5541
+Primary energy,Gas,Delayed Transition (Disorderly scenario),EJ/yr,3.3446,4.49,5.2271,9.8011,8.7057,7.7855,7.9876
+Primary energy,Gas,Fragmented World,EJ/yr,3.3773,4.5447,5.3855,7.2466,7.4329,7.7407,7.1186
+Primary energy,Gas,Low Demand,EJ/yr,3.3253,4.1957,3.8692,3.8313,4.4918,4.675,4.3755
+Primary energy,Gas,Nationally Determined Contributions (NDCs),EJ/yr,3.3743,4.4236,5.3819,6.2057,6.0681,6.3529,7.2461
+Primary energy,Gas,Net Zero 2050 (Orderly scenario),EJ/yr,3.4002,4.4995,4.4575,4.2951,4.4432,4.3421,5.4123
+Primary energy,Gas,Below 2°C,EJ/yr,2.7778,3.8599,4.3748,4.2842,4.1387,3.8302,3.4435
+Primary energy,Gas,Current Policies (Hot house world scenario),EJ/yr,2.7778,3.9431,4.9718,5.2937,5.4849,5.7727,5.9579
+Primary energy,Gas,Delayed Transition (Disorderly scenario),EJ/yr,2.7778,3.9431,4.9718,5.067,4.3397,3.9416,2.9271
+Primary energy,Gas,Fragmented World,EJ/yr,2.7778,3.9431,4.9718,5.1258,4.8588,4.7997,4.5196
+Primary energy,Gas,Low Demand,EJ/yr,2.7778,3.6963,2.6683,2.3389,1.9824,1.3848,1.0286
+Primary energy,Gas,Nationally Determined Contributions (NDCs),EJ/yr,2.7778,3.9456,4.624,4.958,4.8798,4.8044,4.9476
+Primary energy,Gas,Net Zero 2050 (Orderly scenario),EJ/yr,2.7778,3.8487,4.0773,3.6349,2.99,1.6742,0.9787
+Final energy,Gases,Below 2°C,EJ/yr,0.7681,1.2216,1.4884,1.8894,2.2381,2.3774,2.3128
+Final energy,Gases,Current Policies (Hot house world scenario),EJ/yr,0.7681,1.1615,1.6706,2.2161,2.789,3.3199,3.7959
+Final energy,Gases,Delayed Transition (Disorderly scenario),EJ/yr,0.7682,1.162,1.6712,1.9936,2.3898,2.6485,2.6582
+Final energy,Gases,Fragmented World,EJ/yr,0.7681,1.1615,1.6706,2.1645,2.5276,2.8604,3.0751
+Final energy,Gases,Low Demand,EJ/yr,0.7681,1.1448,1.3012,1.6422,1.9165,1.9578,1.8401
+Final energy,Gases,Nationally Determined Contributions (NDCs),EJ/yr,0.7681,1.1778,1.6954,2.1778,2.7534,3.3069,3.7795
+Final energy,Gases,Net Zero 2050 (Orderly scenario),EJ/yr,0.7681,1.2129,1.4253,1.779,1.989,1.9565,1.7591
+Final energy,Gases,Below 2°C,EJ/yr,1.2719,1.6064,1.8799,1.8198,2.0439,2.5251,3.0783
+Final energy,Gases,Current Policies (Hot house world scenario),EJ/yr,1.2252,1.522,1.6267,1.4614,1.3428,1.5078,1.7488
+Final energy,Gases,Delayed Transition (Disorderly scenario),EJ/yr,1.2155,1.5077,1.6074,2.1735,2.7854,4.054,4.7728
+Final energy,Gases,Fragmented World,EJ/yr,1.2507,1.5789,1.7338,1.5133,1.804,1.5831,1.8694
+Final energy,Gases,Low Demand,EJ/yr,1.191,1.4427,1.9129,2.993,3.4286,2.9831,2.0052
+Final energy,Gases,Nationally Determined Contributions (NDCs),EJ/yr,1.2485,1.563,1.6933,1.6775,1.6642,2.0059,2.441
+Final energy,Gases,Net Zero 2050 (Orderly scenario),EJ/yr,1.2927,1.6352,1.9057,3.2197,3.9977,4.4954,5.8735
+Final energy,Gases,Below 2°C,EJ/yr,1.8219,2.4266,2.826,2.9402,2.9532,2.8381,2.607
+Final energy,Gases,Current Policies (Hot house world scenario),EJ/yr,1.8219,2.4309,2.9726,3.4109,3.7872,4.081,4.2406
+Final energy,Gases,Delayed Transition (Disorderly scenario),EJ/yr,1.8219,2.4309,2.9726,3.2782,3.0761,3.0154,2.3317
+Final energy,Gases,Fragmented World,EJ/yr,1.8219,2.4309,2.9726,3.2922,3.2901,3.3322,3.1966
+Final energy,Gases,Low Demand,EJ/yr,1.8219,2.3284,1.5719,1.53,1.4273,1.0629,0.8391
+Final energy,Gases,Nationally Determined Contributions (NDCs),EJ/yr,1.8219,2.4732,2.9091,3.2964,3.4241,3.4829,3.6087
+Final energy,Gases,Net Zero 2050 (Orderly scenario),EJ/yr,1.8219,2.3959,2.4058,2.4572,2.3449,1.365,0.8523
+Primary energy,Geothermal,Below 2°C,EJ/yr,0.0255,0.0541,0.0539,0.0534,0.0539,0.0545,0.0547
+Primary energy,Geothermal,Current Policies (Hot house world scenario),EJ/yr,0.0257,0.0547,0.0541,0.0537,0.0544,0.0548,0.0549
+Primary energy,Geothermal,Delayed Transition (Disorderly scenario),EJ/yr,0.0254,0.0545,0.0538,0.0534,0.0539,0.0543,0.0544
+Primary energy,Geothermal,Fragmented World,EJ/yr,0.0257,0.0547,0.0541,0.0536,0.0545,0.0548,0.0548
+Primary energy,Geothermal,Low Demand,EJ/yr,0.0255,0.0542,0.0539,0.0531,0.0537,0.0543,0.0546
+Primary energy,Geothermal,Nationally Determined Contributions (NDCs),EJ/yr,0.0257,0.0547,0.054,0.0535,0.0545,0.0548,0.0549
+Primary energy,Geothermal,Net Zero 2050 (Orderly scenario),EJ/yr,0.0255,0.0541,0.0539,0.0531,0.0541,0.0545,0.0547
+Primary energy,Geothermal,Below 2°C,EJ/yr,0.0078,0.0131,0.0297,0.0756,0.169,0.3278,0.5591
+Primary energy,Geothermal,Current Policies (Hot house world scenario),EJ/yr,0.0078,0.01,0.01,0.01,0.01,0.01,0.01
+Primary energy,Geothermal,Delayed Transition (Disorderly scenario),EJ/yr,0.0078,0.01,0.01,0.0172,0.0784,0.2564,0.5961
+Primary energy,Geothermal,Fragmented World,EJ/yr,0.0078,0.01,0.01,0.0153,0.0529,0.1538,0.3496
+Primary energy,Geothermal,Low Demand,EJ/yr,0.0078,0.0113,0.0364,0.1001,0.2307,0.4517,0.7636
+Primary energy,Geothermal,Nationally Determined Contributions (NDCs),EJ/yr,0.0078,0.01,0.0139,0.0276,0.0599,0.1221,0.231
+Primary energy,Geothermal,Net Zero 2050 (Orderly scenario),EJ/yr,0.0078,0.0145,0.0507,0.1641,0.4083,0.8081,1.3281
+Final energy,Heat,Below 2°C,EJ/yr,0,0,0,0,0,0,0
+Final energy,Heat,Current Policies (Hot house world scenario),EJ/yr,0,0,0,0,0,0,0
+Final energy,Heat,Delayed Transition (Disorderly scenario),EJ/yr,0,0,0,0,0,0,0
+Final energy,Heat,Fragmented World,EJ/yr,0,0,0,0,0,0,0
+Final energy,Heat,Low Demand,EJ/yr,0,0,0,0,0,0,0
+Final energy,Heat,Nationally Determined Contributions (NDCs),EJ/yr,0,0,0,0,0,0,0
+Final energy,Heat,Net Zero 2050 (Orderly scenario),EJ/yr,0,0,0,0,0,0,0
+Final energy,Heat,Below 2°C,EJ/yr,0.0362,0.0849,0.1602,0.2812,0.4762,0.7746,1.238
+Final energy,Heat,Current Policies (Hot house world scenario),EJ/yr,0.0363,0.0846,0.1601,0.2817,0.4732,0.7643,1.2124
+Final energy,Heat,Delayed Transition (Disorderly scenario),EJ/yr,0.0362,0.0845,0.1596,0.2809,0.4773,0.7762,1.2429
+Final energy,Heat,Fragmented World,EJ/yr,0.0361,0.0842,0.1593,0.2787,0.4742,0.7661,1.2199
+Final energy,Heat,Low Demand,EJ/yr,0.0364,0.0854,0.1583,0.2839,0.4792,0.6855,0.7584
+Final energy,Heat,Nationally Determined Contributions (NDCs),EJ/yr,0.0361,0.0845,0.1603,0.2813,0.4729,0.7626,1.2071
+Final energy,Heat,Net Zero 2050 (Orderly scenario),EJ/yr,0.0363,0.0854,0.1603,0.2877,0.4858,0.7014,1.1004
+Final energy,Heat,Below 2°C,EJ/yr,0.0271,0.0774,0.1208,0.1584,0.217,0.3357,0.5188
+Final energy,Heat,Current Policies (Hot house world scenario),EJ/yr,0.0271,0.0905,0.1609,0.23,0.3287,0.4668,0.6229
+Final energy,Heat,Delayed Transition (Disorderly scenario),EJ/yr,0.0271,0.0905,0.1609,0.2011,0.2046,0.3133,0.5689
+Final energy,Heat,Fragmented World,EJ/yr,0.0271,0.0905,0.1609,0.2102,0.24,0.3031,0.4271
+Final energy,Heat,Low Demand,EJ/yr,0.0271,0.0703,0.0979,0.1372,0.2374,0.4199,0.6844
+Final energy,Heat,Nationally Determined Contributions (NDCs),EJ/yr,0.0271,0.082,0.1335,0.2038,0.2722,0.346,0.4449
+Final energy,Heat,Net Zero 2050 (Orderly scenario),EJ/yr,0.0271,0.072,0.1084,0.1924,0.3938,0.7372,1.19
+Primary energy,Hydro,Below 2°C,EJ/yr,0.6285,0.6567,0.6925,0.7209,0.7626,0.8025,0.8351
+Primary energy,Hydro,Current Policies (Hot house world scenario),EJ/yr,0.6285,0.6606,0.6907,0.7226,0.7658,0.8036,0.8367
+Primary energy,Hydro,Delayed Transition (Disorderly scenario),EJ/yr,0.629,0.6609,0.6908,0.7211,0.7621,0.8001,0.8313
+Primary energy,Hydro,Fragmented World,EJ/yr,0.6285,0.6605,0.6905,0.7205,0.7673,0.8038,0.835
+Primary energy,Hydro,Low Demand,EJ/yr,0.6285,0.6573,0.6919,0.7177,0.7589,0.7992,0.835
+Primary energy,Hydro,Nationally Determined Contributions (NDCs),EJ/yr,0.6285,0.6604,0.6897,0.7196,0.7669,0.8038,0.8361
+Primary energy,Hydro,Net Zero 2050 (Orderly scenario),EJ/yr,0.6285,0.6562,0.6915,0.7174,0.7643,0.8014,0.8353
+Primary energy,Hydro,Below 2°C,EJ/yr,0.6456,0.6294,0.7524,0.9123,1.0857,1.3094,1.6155
+Primary energy,Hydro,Current Policies (Hot house world scenario),EJ/yr,0.6269,0.6241,0.6434,0.6541,0.6343,0.6522,0.6437
+Primary energy,Hydro,Delayed Transition (Disorderly scenario),EJ/yr,0.6266,0.6233,0.6421,0.8354,0.9511,1.1174,1.367
+Primary energy,Hydro,Fragmented World,EJ/yr,0.6447,0.6329,0.6451,0.7952,0.9303,1.1414,1.4126
+Primary energy,Hydro,Low Demand,EJ/yr,0.638,0.6321,0.6872,0.8295,0.9961,1.2165,1.5228
+Primary energy,Hydro,Nationally Determined Contributions (NDCs),EJ/yr,0.6449,0.6278,0.648,0.7553,0.8609,1.0506,1.3269
+Primary energy,Hydro,Net Zero 2050 (Orderly scenario),EJ/yr,0.6457,0.6302,0.7239,0.8633,1.0126,1.2299,1.53
+Primary energy,Hydro,Below 2°C,EJ/yr,0.7151,0.8223,0.908,0.9704,1.0116,1.0359,1.0479
+Primary energy,Hydro,Current Policies (Hot house world scenario),EJ/yr,0.7151,0.8276,0.9183,0.9815,1.0218,1.0445,1.0543
+Primary energy,Hydro,Delayed Transition (Disorderly scenario),EJ/yr,0.7151,0.8276,0.9183,0.9823,1.0238,1.0466,1.0552
+Primary energy,Hydro,Fragmented World,EJ/yr,0.7151,0.8276,0.9183,0.9792,1.0195,1.0432,1.054
+Primary energy,Hydro,Low Demand,EJ/yr,0.7151,0.8197,0.9083,0.9733,1.0152,1.0397,1.0521
+Primary energy,Hydro,Nationally Determined Contributions (NDCs),EJ/yr,0.7151,0.8251,0.9128,0.9745,1.0128,1.0327,1.0401
+Primary energy,Hydro,Net Zero 2050 (Orderly scenario),EJ/yr,0.7151,0.8328,0.9438,1.0226,1.0581,1.0681,1.0687
+Final energy,Hydrogen,Below 2°C,EJ/yr,0,0.1295,0.3325,0.6181,0.9082,1.1998,1.4485
+Final energy,Hydrogen,Current Policies (Hot house world scenario),EJ/yr,0,0.1168,0.3699,0.6655,0.9329,1.1579,1.35
+Final energy,Hydrogen,Delayed Transition (Disorderly scenario),EJ/yr,0,0.1168,0.3699,0.6213,0.8755,1.1278,1.3866
+Final energy,Hydrogen,Fragmented World,EJ/yr,0,0.1168,0.3699,0.6491,0.8715,1.0731,1.2919
+Final energy,Hydrogen,Low Demand,EJ/yr,0,0.1097,0.2746,0.5435,0.8481,1.1595,1.4497
+Final energy,Hydrogen,Nationally Determined Contributions (NDCs),EJ/yr,0,0.1198,0.3794,0.6666,0.9192,1.1267,1.2943
+Final energy,Hydrogen,Net Zero 2050 (Orderly scenario),EJ/yr,0,0.1305,0.3361,0.6915,1.055,1.3539,1.7122
+Final energy,Hydrogen,Below 2°C,EJ/yr,0,0,0.0005,0.0309,0.0304,0.131,0.3404
+Final energy,Hydrogen,Current Policies (Hot house world scenario),EJ/yr,0,0,0,0.024,0.0237,0.024,0.0235
+Final energy,Hydrogen,Delayed Transition (Disorderly scenario),EJ/yr,0,0,0,0.0226,0.1602,0.3654,0.7359
+Final energy,Hydrogen,Fragmented World,EJ/yr,0,0,0,0.0246,0.024,0.0231,0.0259
+Final energy,Hydrogen,Low Demand,EJ/yr,0,0,0.0004,0.1845,0.5398,1.1808,1.5872
+Final energy,Hydrogen,Nationally Determined Contributions (NDCs),EJ/yr,0,0,0,0.0358,0.0355,0.0351,0.0326
+Final energy,Hydrogen,Net Zero 2050 (Orderly scenario),EJ/yr,0,0,0.0005,0.1034,0.3104,0.6006,0.9228
+Final energy,Hydrogen,Below 2°C,EJ/yr,0.0141,0.1027,0.2486,0.445,0.8035,1.532,2.7658
+Final energy,Hydrogen,Current Policies (Hot house world scenario),EJ/yr,0.0141,0.1084,0.263,0.4525,0.7106,1.0228,1.3644
+Final energy,Hydrogen,Delayed Transition (Disorderly scenario),EJ/yr,0.0141,0.1084,0.263,0.4399,0.5844,1.5049,3.3965
+Final energy,Hydrogen,Fragmented World,EJ/yr,0.0141,0.1084,0.263,0.4294,0.5592,0.9306,1.9046
+Final energy,Hydrogen,Low Demand,EJ/yr,0.0141,0.0882,0.1424,0.2094,0.2909,0.5847,1.1098
+Final energy,Hydrogen,Nationally Determined Contributions (NDCs),EJ/yr,0.0141,0.1079,0.2625,0.4363,0.6748,1.1475,1.9542
+Final energy,Hydrogen,Net Zero 2050 (Orderly scenario),EJ/yr,0.0141,0.099,0.2817,0.5008,1.2684,2.6647,4.2117
+Emissions and CCS,Industrial processes CCS,Below 2°C,Mt CO2/yr,0,5.3616,27.9641,76.7375,134.0492,187.5101,224.4312
+Emissions and CCS,Industrial processes CCS,Current Policies (Hot house world scenario),Mt CO2/yr,0,6.1645,14.9881,26.0859,37.7109,50.6166,62.6456
+Emissions and CCS,Industrial processes CCS,Delayed Transition (Disorderly scenario),Mt CO2/yr,0,6.1611,14.9876,43.0144,93.6516,150.4378,201.5561
+Emissions and CCS,Industrial processes CCS,Fragmented World,Mt CO2/yr,0,6.1648,14.9883,35.3193,70.6416,117.9207,168.4562
+Emissions and CCS,Industrial processes CCS,Low Demand,Mt CO2/yr,0,3.9124,21.0834,67.1113,126.7038,178.8693,213.2391
+Emissions and CCS,Industrial processes CCS,Nationally Determined Contributions (NDCs),Mt CO2/yr,0,5.8538,14.9554,29.0696,45.115,64.7191,85.5127
+Emissions and CCS,Industrial processes CCS,Net Zero 2050 (Orderly scenario),Mt CO2/yr,0,6.009,33.6,99.3073,167.8263,216.5534,242.2142
+Emissions and CCS,Industrial processes CCS,Below 2°C,Mt CO2/yr,0,0,0,0,11.9067,11.6425,11.2417
+Emissions and CCS,Industrial processes CCS,Current Policies (Hot house world scenario),Mt CO2/yr,0,0,0,0,0,0,0
+Emissions and CCS,Industrial processes CCS,Delayed Transition (Disorderly scenario),Mt CO2/yr,0,0,0,0,0,0,18.7173
+Emissions and CCS,Industrial processes CCS,Fragmented World,Mt CO2/yr,0,0,0,0,67.9614,66.3397,64.5019
+Emissions and CCS,Industrial processes CCS,Low Demand,Mt CO2/yr,0,0,56.2365,91.5698,129.8464,137.3858,146.802
+Emissions and CCS,Industrial processes CCS,Nationally Determined Contributions (NDCs),Mt CO2/yr,0,0,0,0,0,0,0
+Emissions and CCS,Industrial processes CCS,Net Zero 2050 (Orderly scenario),Mt CO2/yr,0,0,49.5627,43.6058,60.7235,122.6347,241.1207
+Emissions and CCS,Industrial processes CCS,Below 2°C,Mt CO2/yr,0,0,0,0,0,0,15.1515
+Emissions and CCS,Industrial processes CCS,Current Policies (Hot house world scenario),Mt CO2/yr,0,0,0,0,0,0,0
+Emissions and CCS,Industrial processes CCS,Delayed Transition (Disorderly scenario),Mt CO2/yr,0,0,0,0,0,11.8905,24.6987
+Emissions and CCS,Industrial processes CCS,Fragmented World,Mt CO2/yr,0,0,0,0,0,0,0
+Emissions and CCS,Industrial processes CCS,Low Demand,Mt CO2/yr,0,0,0,0,10.5685,23.5142,40.2111
+Emissions and CCS,Industrial processes CCS,Nationally Determined Contributions (NDCs),Mt CO2/yr,0,0,0,0,0,0,0
+Emissions and CCS,Industrial processes CCS,Net Zero 2050 (Orderly scenario),Mt CO2/yr,0,0,0,11.7399,22.8085,35.4775,47.0769
+Final energy,Liquids,Below 2°C,EJ/yr,7.2613,9.6491,10.1386,10.3587,10.1173,9.1407,7.5171
+Final energy,Liquids,Current Policies (Hot house world scenario),EJ/yr,7.2613,9.2933,11.3744,12.4246,13.2307,14.0656,15.0335
+Final energy,Liquids,Delayed Transition (Disorderly scenario),EJ/yr,7.2631,9.2965,11.3771,10.9786,10.8751,10.5644,9.3338
+Final energy,Liquids,Fragmented World,EJ/yr,7.2613,9.2933,11.3744,12.0151,11.7353,11.7337,11.6456
+Final energy,Liquids,Low Demand,EJ/yr,7.2613,9.3705,9.3853,9.5298,8.8392,6.661,4.9354
+Final energy,Liquids,Nationally Determined Contributions (NDCs),EJ/yr,7.2613,9.4044,11.5499,12.2293,12.9605,13.7826,14.5486
+Final energy,Liquids,Net Zero 2050 (Orderly scenario),EJ/yr,7.2613,9.5694,9.6642,9.2109,7.6902,5.356,3.8454
+Final energy,Liquids,Below 2°C,EJ/yr,8.7008,11.5082,12.6888,13.4475,14.1747,12.8771,10.1331
+Final energy,Liquids,Current Policies (Hot house world scenario),EJ/yr,8.7604,10.6241,11.5732,13.5459,15.2421,17.4277,18.5866
+Final energy,Liquids,Delayed Transition (Disorderly scenario),EJ/yr,8.7695,10.6412,11.5943,12.2922,11.5139,8.7154,5.695
+Final energy,Liquids,Fragmented World,EJ/yr,8.7043,10.5474,11.4637,14.1865,15.4323,15.7334,14.9041
+Final energy,Liquids,Low Demand,EJ/yr,8.6052,11.2607,11.6828,10.3541,8.3018,5.5283,3.836
+Final energy,Liquids,Nationally Determined Contributions (NDCs),EJ/yr,8.7241,11.5542,12.9803,15.1107,16.6196,18.1667,19.7223
+Final energy,Liquids,Net Zero 2050 (Orderly scenario),EJ/yr,8.695,11.4914,9.3453,7.2232,5.604,4.196,4.0143
+Final energy,Liquids,Below 2°C,EJ/yr,10.0302,13.5769,16.8924,18.2911,18.1981,17.0783,15.4918
+Final energy,Liquids,Current Policies (Hot house world scenario),EJ/yr,10.0302,13.2257,16.6142,19.1335,20.8269,21.6645,22.7923
+Final energy,Liquids,Delayed Transition (Disorderly scenario),EJ/yr,10.0302,13.2257,16.6142,18.3239,17.398,15.9925,13.4705
+Final energy,Liquids,Fragmented World,EJ/yr,10.0302,13.2257,16.6142,19.7697,19.8283,19.0588,17.0705
+Final energy,Liquids,Low Demand,EJ/yr,10.0302,12.7387,13.5408,13.6081,12.7588,10.8041,8.0263
+Final energy,Liquids,Nationally Determined Contributions (NDCs),EJ/yr,10.0302,13.1717,16.153,18.6557,20.4607,21.3051,20.9968
+Final energy,Liquids,Net Zero 2050 (Orderly scenario),EJ/yr,10.0302,12.9864,15.4465,15.796,14.9512,11.6635,7.4462
+Emissions and CCS,LULUCF CO2 emissions,Below 2°C,Mt CO2/yr,268.2218,279.8501,291.4784,303.1068,314.7351,326.3634,337.9918
+Emissions and CCS,LULUCF CO2 emissions,Current Policies (Hot house world scenario),Mt CO2/yr,268.2218,274.6696,281.1175,287.5653,294.0132,300.461,306.9089
+Emissions and CCS,LULUCF CO2 emissions,Delayed Transition (Disorderly scenario),Mt CO2/yr,268.2218,274.6696,281.1175,296.211,311.3046,326.3982,341.4918
+Emissions and CCS,LULUCF CO2 emissions,Fragmented World,Mt CO2/yr,268.2218,274.6696,281.1175,290.8735,300.6296,310.3857,320.1418
+Emissions and CCS,LULUCF CO2 emissions,Low Demand,Mt CO2/yr,268.2218,280.5168,292.8118,305.1068,317.4018,329.6968,341.9918
+Emissions and CCS,LULUCF CO2 emissions,Nationally Determined Contributions (NDCs),Mt CO2/yr,268.2218,275.7488,283.2758,290.8028,298.3298,305.8568,313.3838
+Emissions and CCS,LULUCF CO2 emissions,Net Zero 2050 (Orderly scenario),Mt CO2/yr,268.2218,280.9334,293.6451,306.3568,319.0684,331.7801,344.4918
+Emissions and CCS,LULUCF CO2 emissions,Below 2°C,Mt CO2/yr,149.8215,115.239,86.3223,67.2709,49.1738,51.6353,54.5962
+Emissions and CCS,LULUCF CO2 emissions,Current Policies (Hot house world scenario),Mt CO2/yr,149.8215,105.6771,70.3422,39.529,9.9781,7.8573,4.9646
+Emissions and CCS,LULUCF CO2 emissions,Delayed Transition (Disorderly scenario),Mt CO2/yr,149.8215,113.6268,86.2416,63.7926,43.8393,47.9692,50.9412
+Emissions and CCS,LULUCF CO2 emissions,Fragmented World,Mt CO2/yr,149.8215,110.8444,80.6768,53.3473,28.0833,21.0291,13.8299
+Emissions and CCS,LULUCF CO2 emissions,Low Demand,Mt CO2/yr,149.8215,122.7912,100.6408,95.8745,91.7892,86.4868,81.6768
+Emissions and CCS,LULUCF CO2 emissions,Nationally Determined Contributions (NDCs),Mt CO2/yr,149.8215,112.4566,83.1718,58.8138,35.1417,25.8829,17.162
+Emissions and CCS,LULUCF CO2 emissions,Net Zero 2050 (Orderly scenario),Mt CO2/yr,149.8215,122.7912,98.5043,86.7268,72.3871,63.4845,58.8288
+Emissions and CCS,LULUCF CO2 emissions,Below 2°C,Mt CO2/yr,240.5693,248.1649,241.4233,224.4168,208.1319,201.2708,205.2724
+Emissions and CCS,LULUCF CO2 emissions,Current Policies (Hot house world scenario),Mt CO2/yr,240.5693,227.8558,226.4031,225.6389,226.6557,230.8072,238.3222
+Emissions and CCS,LULUCF CO2 emissions,Delayed Transition (Disorderly scenario),Mt CO2/yr,240.5693,227.8558,226.4031,224.3214,208.1436,200.3998,197.6574
+Emissions and CCS,LULUCF CO2 emissions,Fragmented World,Mt CO2/yr,240.5693,227.8558,226.4031,224.0554,208.0195,200.6309,198.5799
+Emissions and CCS,LULUCF CO2 emissions,Low Demand,Mt CO2/yr,240.5693,237.9711,229.1316,217.9259,211.27,210.3015,211.824
+Emissions and CCS,LULUCF CO2 emissions,Nationally Determined Contributions (NDCs),Mt CO2/yr,240.5693,248.2181,241.4464,225.0286,213.1268,217.1806,230.3578
+Emissions and CCS,LULUCF CO2 emissions,Net Zero 2050 (Orderly scenario),Mt CO2/yr,240.5693,248.3133,241.4789,224.4214,208.4015,200.6481,197.5125
+Primary energy,Nuclear,Below 2°C,EJ/yr,0.1259,0.1253,0.1458,0.1735,0.2028,0.2434,0.2848
+Primary energy,Nuclear,Current Policies (Hot house world scenario),EJ/yr,0.1259,0.1256,0.1276,0.1271,0.123,0.1138,0.1024
+Primary energy,Nuclear,Delayed Transition (Disorderly scenario),EJ/yr,0.126,0.1259,0.1278,0.1418,0.1643,0.1954,0.2474
+Primary energy,Nuclear,Fragmented World,EJ/yr,0.1259,0.1258,0.1277,0.1338,0.1425,0.1531,0.1753
+Primary energy,Nuclear,Low Demand,EJ/yr,0.1259,0.1231,0.1349,0.1602,0.1996,0.262,0.308
+Primary energy,Nuclear,Nationally Determined Contributions (NDCs),EJ/yr,0.1259,0.1254,0.128,0.1283,0.1259,0.1186,0.1095
+Primary energy,Nuclear,Net Zero 2050 (Orderly scenario),EJ/yr,0.1259,0.126,0.1582,0.2083,0.2724,0.3475,0.4344
+Primary energy,Nuclear,Below 2°C,EJ/yr,0.1738,0.1582,0.362,0.5983,0.8959,1.2613,1.7456
+Primary energy,Nuclear,Current Policies (Hot house world scenario),EJ/yr,0.1754,0.1647,0.16,0.1488,0.1171,0.0985,0.0724
+Primary energy,Nuclear,Delayed Transition (Disorderly scenario),EJ/yr,0.1728,0.1598,0.1534,0.3458,0.5491,0.7928,1.1231
+Primary energy,Nuclear,Fragmented World,EJ/yr,0.1727,0.1575,0.1495,0.1467,0.1231,0.2668,0.4548
+Primary energy,Nuclear,Low Demand,EJ/yr,0.1711,0.1568,0.3299,0.5369,0.8137,0.7619,0.7082
+Primary energy,Nuclear,Nationally Determined Contributions (NDCs),EJ/yr,0.1739,0.1582,0.1528,0.1427,0.1133,0.093,0.067
+Primary energy,Nuclear,Net Zero 2050 (Orderly scenario),EJ/yr,0.1723,0.1562,0.3702,0.6362,0.9215,1.3048,1.817
+Primary energy,Nuclear,Below 2°C,EJ/yr,0.2471,0.5448,1.1004,1.8474,2.2802,2.5116,2.6183
+Primary energy,Nuclear,Current Policies (Hot house world scenario),EJ/yr,0.2471,0.5476,1.1044,1.8474,2.3466,2.6631,2.8391
+Primary energy,Nuclear,Delayed Transition (Disorderly scenario),EJ/yr,0.2471,0.5476,1.1044,1.8474,2.3036,2.5598,2.6804
+Primary energy,Nuclear,Fragmented World,EJ/yr,0.2471,0.5476,1.1044,1.8474,2.3513,2.6705,2.8462
+Primary energy,Nuclear,Low Demand,EJ/yr,0.2471,0.5428,1.1039,1.8474,2.2413,2.4353,2.5158
+Primary energy,Nuclear,Nationally Determined Contributions (NDCs),EJ/yr,0.2471,0.5471,1.1043,1.8474,2.2724,2.4905,2.5833
+Primary energy,Nuclear,Net Zero 2050 (Orderly scenario),EJ/yr,0.2471,0.5489,1.1155,1.8474,2.323,2.5783,2.6978
+Primary energy,Oil,Below 2°C,EJ/yr,11.0011,14.3824,14.7345,14.9204,14.4016,12.8442,10.7018
+Primary energy,Oil,Current Policies (Hot house world scenario),EJ/yr,11.0011,13.6213,15.8825,16.8563,17.3966,17.8696,18.429
+Primary energy,Oil,Delayed Transition (Disorderly scenario),EJ/yr,11.0021,13.6241,15.8837,15.3266,15.2353,14.5934,12.7487
+Primary energy,Oil,Fragmented World,EJ/yr,11.0011,13.621,15.8819,16.5088,16.0269,15.8727,15.3948
+Primary energy,Oil,Low Demand,EJ/yr,11.0011,13.8401,13.5353,13.7746,12.768,9.8603,7.7642
+Primary energy,Oil,Nationally Determined Contributions (NDCs),EJ/yr,11.0011,13.87,16.3856,16.9787,17.4461,17.9602,18.3433
+Primary energy,Oil,Net Zero 2050 (Orderly scenario),EJ/yr,11.0011,14.2927,14.3032,13.5978,11.3819,8.523,6.7527
+Primary energy,Oil,Below 2°C,EJ/yr,10.9105,13.463,14.4765,15.053,15.6488,13.6747,10.5625
+Primary energy,Oil,Current Policies (Hot house world scenario),EJ/yr,11.0214,12.0472,11.7136,13.8079,15.5678,17.6948,18.7322
+Primary energy,Oil,Delayed Transition (Disorderly scenario),EJ/yr,11.022,12.0576,11.7268,12.0647,11.3585,8.1051,5.2304
+Primary energy,Oil,Fragmented World,EJ/yr,10.9684,11.9202,11.5555,14.611,16.0166,16.1863,15.1758
+Primary energy,Oil,Low Demand,EJ/yr,10.8443,13.368,12.7873,9.9777,7.8563,4.6441,2.84
+Primary energy,Oil,Nationally Determined Contributions (NDCs),EJ/yr,11.018,13.6865,15.0039,17.0631,18.5593,19.7652,20.8498
+Primary energy,Oil,Net Zero 2050 (Orderly scenario),EJ/yr,10.9527,13.5332,10.0508,6.7219,4.6201,2.7357,2.133
+Primary energy,Oil,Below 2°C,EJ/yr,13.4651,17.526,21.029,22.0363,21.2607,19.3437,17.0107
+Primary energy,Oil,Current Policies (Hot house world scenario),EJ/yr,13.4651,17.0659,20.5655,22.5414,22.8679,21.2212,18.7608
+Primary energy,Oil,Delayed Transition (Disorderly scenario),EJ/yr,13.4651,17.0659,20.5655,21.6207,20.0664,18.0495,14.7609
+Primary energy,Oil,Fragmented World,EJ/yr,13.4651,17.0659,20.5655,23.315,22.6599,20.7306,16.7567
+Primary energy,Oil,Low Demand,EJ/yr,13.4651,16.4555,16.8782,16.3947,14.8508,12.095,8.5477
+Primary energy,Oil,Nationally Determined Contributions (NDCs),EJ/yr,13.4651,17.0095,20.1129,22.4594,23.8737,24.1024,23.0342
+Primary energy,Oil,Net Zero 2050 (Orderly scenario),EJ/yr,13.4651,16.7747,19.2519,19.0356,17.4221,13.0844,7.4236
+Carbon price,Price: Carbon,Below 2°C,US$2010/t CO2,0,0,87.5236,129.3649,174.4283,257.1045,390.6429
+Carbon price,Price: Carbon,Current Policies (Hot house world scenario),US$2010/t CO2,0,0,0,0,0,0,0
+Carbon price,Price: Carbon,Delayed Transition (Disorderly scenario),US$2010/t CO2,0,0,0,81.0527,129.2859,180.533,278.7383
+Carbon price,Price: Carbon,Fragmented World,US$2010/t CO2,0,0.0058,0,31.5941,88.6097,126.5259,167.749
+Carbon price,Price: Carbon,Low Demand,US$2010/t CO2,0,0,81.8245,136.5734,207.3284,385.385,585.3953
+Carbon price,Price: Carbon,Nationally Determined Contributions (NDCs),US$2010/t CO2,0,0,0,8.265,12.578,19.7796,30.059
+Carbon price,Price: Carbon,Net Zero 2050 (Orderly scenario),US$2010/t CO2,0,0,125.9752,194.3443,301.5165,556.9474,816.7364
+Carbon price,Price: Carbon,Below 2°C,US$2010/t CO2,0,0,42.2876,56.6025,73.6487,93.2858,114.0307
+Carbon price,Price: Carbon,Current Policies (Hot house world scenario),US$2010/t CO2,0,0,0,2.1579,4.3159,6.4738,8.6317
+Carbon price,Price: Carbon,Delayed Transition (Disorderly scenario),US$2010/t CO2,0,0,0,79.0991,95.4954,128.4225,157.5344
+Carbon price,Price: Carbon,Fragmented World,US$2010/t CO2,0,0,0,22.9723,35.7635,56.18,85.6236
+Carbon price,Price: Carbon,Low Demand,US$2010/t CO2,0,0,217.2788,267.6267,340.7935,453.9782,544.7084
+Carbon price,Price: Carbon,Nationally Determined Contributions (NDCs),US$2010/t CO2,0,0,0,7.9757,15.9515,23.9272,31.9029
+Carbon price,Price: Carbon,Net Zero 2050 (Orderly scenario),US$2010/t CO2,0,0,689.8968,691.1356,808.4434,1046.3668,1275.5484
+Carbon price,Price: Carbon,Below 2°C,US$2010/t CO2,1.1077,10.1555,17.0065,29.925,51.5093,84.3593,131.0753
+Carbon price,Price: Carbon,Current Policies (Hot house world scenario),US$2010/t CO2,1.1077,1.4068,1.7532,2.1513,2.606,3.1228,3.7074
+Carbon price,Price: Carbon,Delayed Transition (Disorderly scenario),US$2010/t CO2,1.1077,1.4068,1.7532,54.821,108.2585,184.5404,277.9518
+Carbon price,Price: Carbon,Fragmented World,US$2010/t CO2,1.1077,1.4068,1.7532,28.8905,67.7311,119.4694,172.599
+Carbon price,Price: Carbon,Low Demand,US$2010/t CO2,1.1077,24.153,40.4454,71.1684,122.4999,200.6221,311.7146
+Carbon price,Price: Carbon,Nationally Determined Contributions (NDCs),US$2010/t CO2,1.1077,15.4408,29.7748,32.3424,35.1279,38.1518,41.4329
+Carbon price,Price: Carbon,Net Zero 2050 (Orderly scenario),US$2010/t CO2,1.1077,40.7891,68.3037,120.1846,206.8756,338.8143,526.4279
+Energy prices,Price: Coal,Below 2°C,US$2010/GJ,1.9534,2.1323,2.2314,2.2207,2.1528,2.4531,2.7692
+Energy prices,Price: Coal,Current Policies (Hot house world scenario),US$2010/GJ,1.9534,2.0695,2.1945,2.272,2.3157,2.3578,2.3824
+Energy prices,Price: Coal,Delayed Transition (Disorderly scenario),US$2010/GJ,1.9534,2.0695,2.1945,2.3766,2.2962,2.2863,2.7396
+Energy prices,Price: Coal,Fragmented World,US$2010/GJ,1.9534,2.0695,2.1944,2.2717,2.2151,2.2376,2.1755
+Energy prices,Price: Coal,Low Demand,US$2010/GJ,1.9534,2.11,2.1463,2.0924,2.1343,2.8321,3.2921
+Energy prices,Price: Coal,Nationally Determined Contributions (NDCs),US$2010/GJ,1.9534,2.0356,2.1043,2.1974,2.2266,2.2528,2.2543
+Energy prices,Price: Coal,Net Zero 2050 (Orderly scenario),US$2010/GJ,1.9534,2.1276,2.0813,2.0926,2.5818,3.2599,3.8082
+Energy prices,Price: Coal,Below 2°C,US$2010/GJ,2.6053,2.5016,1.3406,1.8151,2.4009,1.6586,2.6432
+Energy prices,Price: Coal,Current Policies (Hot house world scenario),US$2010/GJ,2.6053,2.5167,2.2964,2.4713,2.7042,2.2857,2.4873
+Energy prices,Price: Coal,Delayed Transition (Disorderly scenario),US$2010/GJ,2.6053,2.5167,2.2964,2.1439,1.5619,2.1686,3.5043
+Energy prices,Price: Coal,Fragmented World,US$2010/GJ,2.6053,2.5167,2.2964,2.0829,2.3025,2.2812,2.5424
+Energy prices,Price: Coal,Low Demand,US$2010/GJ,2.6053,2.5016,-7.3743,1.1966,4.5524,4.7466,6.3019
+Energy prices,Price: Coal,Nationally Determined Contributions (NDCs),US$2010/GJ,2.6053,2.5016,2.2883,2.2909,2.0211,2.0156,2.1714
+Energy prices,Price: Coal,Net Zero 2050 (Orderly scenario),US$2010/GJ,2.6053,2.5016,-24.6789,3.6363,7.2128,9.118,10.4336
+Energy prices,Price: Coal,Below 2°C,US$2010/GJ,2.0344,2.161,1.7827,1.6152,1.4186,1.4234,1.4937
+Energy prices,Price: Coal,Current Policies (Hot house world scenario),US$2010/GJ,2.0344,2.2228,2.2627,2.307,2.3841,2.4996,2.7928
+Energy prices,Price: Coal,Delayed Transition (Disorderly scenario),US$2010/GJ,2.0344,2.2228,2.2627,2.2998,1.8855,1.4268,1.4782
+Energy prices,Price: Coal,Fragmented World,US$2010/GJ,2.0344,2.2228,2.2627,2.2464,2.1067,2.0358,2.4772
+Energy prices,Price: Coal,Low Demand,US$2010/GJ,2.0344,2.3285,1.6288,1.2207,1.2602,1.1936,1.557
+Energy prices,Price: Coal,Nationally Determined Contributions (NDCs),US$2010/GJ,2.0344,2.1324,2.088,2.0799,1.9486,1.8346,1.9253
+Energy prices,Price: Coal,Net Zero 2050 (Orderly scenario),US$2010/GJ,2.0344,2.6167,1.7773,1.444,1.3735,1.4422,1.7394
+Energy prices,Price: Gas,Below 2°C,US$2010/GJ,5.6928,6.0409,6.2669,6.4309,6.5969,6.9229,7.5298
+Energy prices,Price: Gas,Current Policies (Hot house world scenario),US$2010/GJ,5.6928,5.8286,5.7064,5.6613,5.7061,5.6741,5.6778
+Energy prices,Price: Gas,Delayed Transition (Disorderly scenario),US$2010/GJ,5.6926,5.8286,5.7064,6.1165,6.367,6.5974,7.1535
+Energy prices,Price: Gas,Fragmented World,US$2010/GJ,5.6928,5.8286,5.7064,5.7608,5.9375,5.9608,5.9479
+Energy prices,Price: Gas,Low Demand,US$2010/GJ,5.6928,5.9429,6.1699,6.4289,6.7587,7.6203,8.4698
+Energy prices,Price: Gas,Nationally Determined Contributions (NDCs),US$2010/GJ,5.6928,5.8346,5.7052,5.6585,5.6844,5.6126,5.5583
+Energy prices,Price: Gas,Net Zero 2050 (Orderly scenario),US$2010/GJ,5.6928,6.0703,6.5629,6.9203,7.4704,8.7686,9.6776
+Energy prices,Price: Gas,Below 2°C,US$2010/GJ,3.7279,4.2724,5.5409,6.4099,6.9373,6.4146,7.2782
+Energy prices,Price: Gas,Current Policies (Hot house world scenario),US$2010/GJ,3.7279,4.34,4.2757,5.3258,6.0096,6.723,7.2536
+Energy prices,Price: Gas,Delayed Transition (Disorderly scenario),US$2010/GJ,3.7279,4.34,4.2757,7.911,7.1111,5.5458,6.5487
+Energy prices,Price: Gas,Fragmented World,US$2010/GJ,3.7279,4.34,4.2757,6.2277,6.6028,7.4636,7.3907
+Energy prices,Price: Gas,Low Demand,US$2010/GJ,3.7279,4.2724,7.1164,0.6697,5.2051,7.0088,5.0749
+Energy prices,Price: Gas,Nationally Determined Contributions (NDCs),US$2010/GJ,3.7279,4.2724,4.2873,5.4878,6.5983,6.5564,7.0095
+Energy prices,Price: Gas,Net Zero 2050 (Orderly scenario),US$2010/GJ,3.7279,4.2724,16.7576,-4.0064,5.3091,3.7465,11.093
+Energy prices,Price: Gas,Below 2°C,US$2010/GJ,3.9711,4.5987,4.4679,5.2041,5.1447,4.8653,4.9049
+Energy prices,Price: Gas,Current Policies (Hot house world scenario),US$2010/GJ,3.9711,4.6647,4.6303,5.0297,5.2841,5.5602,5.7592
+Energy prices,Price: Gas,Delayed Transition (Disorderly scenario),US$2010/GJ,3.9711,4.6647,4.6303,5.7319,5.3499,4.7767,4.1935
+Energy prices,Price: Gas,Fragmented World,US$2010/GJ,3.9711,4.6647,4.6303,4.854,5.2447,5.5672,5.6393
+Energy prices,Price: Gas,Low Demand,US$2010/GJ,3.9711,4.6568,4.3352,5.2357,4.7106,4.1262,4.1033
+Energy prices,Price: Gas,Nationally Determined Contributions (NDCs),US$2010/GJ,3.9711,4.541,4.3304,4.7696,5.0737,5.4085,5.3735
+Energy prices,Price: Gas,Net Zero 2050 (Orderly scenario),US$2010/GJ,3.9711,5.1474,5.5306,5.9206,5.9116,4.9651,4.4127
+Energy prices,Price: Oil,Below 2°C,US$2010/GJ,15.0283,15.2952,15.5513,15.6088,15.5175,15.3907,15.1984
+Energy prices,Price: Oil,Current Policies (Hot house world scenario),US$2010/GJ,15.0283,14.9896,15.046,15.0241,15.0346,14.9154,14.5241
+Energy prices,Price: Oil,Delayed Transition (Disorderly scenario),US$2010/GJ,15.0281,14.9897,15.0459,15.4391,15.455,15.15,14.766
+Energy prices,Price: Oil,Fragmented World,US$2010/GJ,15.0283,14.9895,15.046,15.1661,15.1323,14.9917,14.3752
+Energy prices,Price: Oil,Low Demand,US$2010/GJ,15.0283,15.0288,15.0624,15.0254,15.0814,15.7592,15.8359
+Energy prices,Price: Oil,Nationally Determined Contributions (NDCs),US$2010/GJ,15.0283,15.0073,15.0416,14.9993,15.0351,14.9488,14.5956
+Energy prices,Price: Oil,Net Zero 2050 (Orderly scenario),US$2010/GJ,15.0283,15.329,15.786,15.9207,16.1702,17.3781,17.5482
+Energy prices,Price: Oil,Below 2°C,US$2010/GJ,2.5589,3.6745,3.6179,4.0568,4.0954,4.5143,4.8236
+Energy prices,Price: Oil,Current Policies (Hot house world scenario),US$2010/GJ,2.5589,3.6772,3.9971,4.3765,4.7144,5.0861,5.385
+Energy prices,Price: Oil,Delayed Transition (Disorderly scenario),US$2010/GJ,2.5589,3.6772,3.9971,4.2235,4.0805,4.7634,4.3801
+Energy prices,Price: Oil,Fragmented World,US$2010/GJ,2.5589,3.6772,3.9971,4.4388,4.3895,4.8662,5.7964
+Energy prices,Price: Oil,Low Demand,US$2010/GJ,2.5589,3.6745,3.2217,3.8138,4.5752,7.2462,2.6796
+Energy prices,Price: Oil,Nationally Determined Contributions (NDCs),US$2010/GJ,2.5589,3.6745,4.011,4.3389,4.4139,4.8986,5.395
+Energy prices,Price: Oil,Net Zero 2050 (Orderly scenario),US$2010/GJ,2.5589,3.6745,5.2774,4.9289,9.5201,3.5549,5.1707
+Energy prices,Price: Oil,Below 2°C,US$2010/GJ,11.1918,12.3944,13.1936,13.1533,14.3813,15.7881,17.0372
+Energy prices,Price: Oil,Current Policies (Hot house world scenario),US$2010/GJ,11.1918,12.923,13.7395,14.0862,15.7503,17.553,19.4513
+Energy prices,Price: Oil,Delayed Transition (Disorderly scenario),US$2010/GJ,11.1918,12.923,13.7395,13.6337,14.3796,15.898,17.1657
+Energy prices,Price: Oil,Fragmented World,US$2010/GJ,11.1918,12.923,13.7395,13.8446,15.3055,17.0406,18.6781
+Energy prices,Price: Oil,Low Demand,US$2010/GJ,11.1918,11.7366,11.065,11.3465,12.1038,12.9514,13.7653
+Energy prices,Price: Oil,Nationally Determined Contributions (NDCs),US$2010/GJ,11.1918,12.8033,13.4785,13.705,15.3123,17.1199,18.7941
+Energy prices,Price: Oil,Net Zero 2050 (Orderly scenario),US$2010/GJ,11.1918,12.1243,12.6335,12.2863,12.9663,13.827,14.5051
+Primary energy,Solar,Below 2°C,EJ/yr,1.332,5.0219,7.8039,10.8845,13.2117,14.7644,15.7861
+Primary energy,Solar,Current Policies (Hot house world scenario),EJ/yr,1.332,4.5544,5.6495,6.4514,7.0425,7.3992,7.5154
+Primary energy,Solar,Delayed Transition (Disorderly scenario),EJ/yr,1.3272,4.547,5.6421,8.4123,11.3516,13.5275,15.0446
+Primary energy,Solar,Fragmented World,EJ/yr,1.332,4.5545,5.6495,7.3088,9.764,11.7814,13.2363
+Primary energy,Solar,Low Demand,EJ/yr,1.332,4.3984,6.2669,9.4274,12.0502,13.9138,14.8966
+Primary energy,Solar,Nationally Determined Contributions (NDCs),EJ/yr,1.332,4.7533,5.9543,6.9526,7.6701,8.3468,8.8307
+Primary energy,Solar,Net Zero 2050 (Orderly scenario),EJ/yr,1.332,5.1218,9.0738,12.7555,15.0872,16.7934,17.9253
+Primary energy,Solar,Below 2°C,EJ/yr,1.5179,3.0641,5.6664,7.6855,7.7393,8.3582,8.9315
+Primary energy,Solar,Current Policies (Hot house world scenario),EJ/yr,1.4915,3.1863,3.8561,4.8184,4.8208,4.8296,4.9812
+Primary energy,Solar,Delayed Transition (Disorderly scenario),EJ/yr,1.4904,3.1796,3.8432,6.2715,8.6272,9.6835,9.9773
+Primary energy,Solar,Fragmented World,EJ/yr,1.5152,3.1749,3.8167,5.5114,7.2962,7.5226,7.8888
+Primary energy,Solar,Low Demand,EJ/yr,1.5065,3.1059,6.1765,10.4532,11.2589,10.4474,9.6146
+Primary energy,Solar,Nationally Determined Contributions (NDCs),EJ/yr,1.516,3.0558,4.1035,4.7908,5.1946,6.3909,6.7126
+Primary energy,Solar,Net Zero 2050 (Orderly scenario),EJ/yr,1.5191,3.0743,6.8113,10.3969,10.2904,10.5218,10.3984
+Primary energy,Solar,Below 2°C,EJ/yr,1.2425,5.3849,11.643,16.5082,19.2549,20.4929,20.8983
+Primary energy,Solar,Current Policies (Hot house world scenario),EJ/yr,1.2425,4.8114,8.8567,11.337,12.9694,13.9529,14.4147
+Primary energy,Solar,Delayed Transition (Disorderly scenario),EJ/yr,1.2425,4.8114,8.8567,12.4828,16.5711,19.7279,21.531
+Primary energy,Solar,Fragmented World,EJ/yr,1.2425,4.8114,8.8567,11.2122,13.8927,16.6949,19.1316
+Primary energy,Solar,Low Demand,EJ/yr,1.2425,4.6314,9.8284,12.7394,13.3595,13.1634,12.9005
+Primary energy,Solar,Nationally Determined Contributions (NDCs),EJ/yr,1.2425,5.3758,11.507,15.9869,18.1436,18.7249,18.7829
+Primary energy,Solar,Net Zero 2050 (Orderly scenario),EJ/yr,1.2425,5.8446,14.4073,18.9789,21.6783,22.9081,23.2936
+Final energy,Solids,Below 2°C,EJ/yr,11.9915,11.5689,10.4312,9.4439,8.5745,7.5494,6.5048
+Final energy,Solids,Current Policies (Hot house world scenario),EJ/yr,11.9915,11.2561,12.515,13.1146,13.7679,14.2548,14.5786
+Final energy,Solids,Delayed Transition (Disorderly scenario),EJ/yr,11.996,11.2613,12.5206,10.5729,9.4299,8.4318,7.2419
+Final energy,Solids,Fragmented World,EJ/yr,11.9915,11.2561,12.515,11.5645,10.4295,9.5398,8.5847
+Final energy,Solids,Low Demand,EJ/yr,11.9915,11.7534,10.5404,9.1649,7.8478,6.323,5.2391
+Final energy,Solids,Nationally Determined Contributions (NDCs),EJ/yr,11.9915,11.3765,12.4912,12.0895,12.2157,12.172,11.8376
+Final energy,Solids,Net Zero 2050 (Orderly scenario),EJ/yr,11.9915,11.3215,9.6865,8.4403,7.1259,5.7249,4.8145
+Final energy,Solids,Below 2°C,EJ/yr,14.42,15.8649,14.847,13.2371,11.8372,10.5564,9.4729
+Final energy,Solids,Current Policies (Hot house world scenario),EJ/yr,14.5186,16.155,17.5925,17.8174,18.6444,17.2676,16.3312
+Final energy,Solids,Delayed Transition (Disorderly scenario),EJ/yr,14.5373,16.191,17.6464,15.6756,13.663,11.8225,10.4926
+Final energy,Solids,Fragmented World,EJ/yr,14.4693,16.1341,17.5932,15.8544,14.5498,12.3008,10.6343
+Final energy,Solids,Low Demand,EJ/yr,14.4033,15.7988,5.7572,5.7266,5.4339,4.8722,4.3209
+Final energy,Solids,Nationally Determined Contributions (NDCs),EJ/yr,14.427,15.8795,17.2634,16.7373,16.3877,14.5386,12.1879
+Final energy,Solids,Net Zero 2050 (Orderly scenario),EJ/yr,14.3725,15.7691,15.6129,14.4035,13.335,11.4389,9.8665
+Final energy,Solids,Below 2°C,EJ/yr,13.2246,13.5205,12.6938,11.4669,9.6441,7.3255,5.3794
+Final energy,Solids,Current Policies (Hot house world scenario),EJ/yr,13.2246,13.5753,15.3542,17.3345,19.3778,20.6415,20.1483
+Final energy,Solids,Delayed Transition (Disorderly scenario),EJ/yr,13.2246,13.5753,15.3542,16.8482,10.2168,4.9888,3.4776
+Final energy,Solids,Fragmented World,EJ/yr,13.2246,13.5753,15.3542,17.1078,13.2339,10.4591,7.0695
+Final energy,Solids,Low Demand,EJ/yr,13.2246,13.2305,8.8469,6.0413,4.0783,3.6435,2.9218
+Final energy,Solids,Nationally Determined Contributions (NDCs),EJ/yr,13.2246,13.4759,12.6206,12.0875,11.7773,11.1463,10.2304
+Final energy,Solids,Net Zero 2050 (Orderly scenario),EJ/yr,13.2246,13.3277,10.0351,7.526,4.4378,3.3424,2.6255
+Emissions and CCS,Total non-CO2 emissions,Below 2°C,Mt CO2-equiv/yr,730.6103,960.8149,1001.8536,1078.703,1152.1983,1243.4811,1314.7174
+Emissions and CCS,Total non-CO2 emissions,Current Policies (Hot house world scenario),Mt CO2-equiv/yr,730.6102,885.9632,1107.0278,1238.5109,1368.5361,1525.0028,1687.7653
+Emissions and CCS,Total non-CO2 emissions,Delayed Transition (Disorderly scenario),Mt CO2-equiv/yr,730.5998,886.0071,1107.0825,1131.0519,1218.3663,1302.2331,1430.137
+Emissions and CCS,Total non-CO2 emissions,Fragmented World,Mt CO2-equiv/yr,730.6101,885.9621,1107.0266,1144.8448,1213.1151,1298.0364,1336.8126
+Emissions and CCS,Total non-CO2 emissions,Low Demand,Mt CO2-equiv/yr,730.6101,958.2432,985.0855,1045.8585,1127.1675,1222.0144,1273.7491
+Emissions and CCS,Total non-CO2 emissions,Nationally Determined Contributions (NDCs),Mt CO2-equiv/yr,730.6101,889.9253,1105.4126,1188.5824,1292.5187,1415.4496,1542.2823
+Emissions and CCS,Total non-CO2 emissions,Net Zero 2050 (Orderly scenario),Mt CO2-equiv/yr,730.6103,947.0895,967.7826,1039.6283,1147.5874,1226.2024,1273.5271
+Emissions and CCS,Total non-CO2 emissions,Below 2°C,Mt CO2-equiv/yr,718.4123,825.1384,789.9997,809.2261,840.1078,855.6343,875.8009
+Emissions and CCS,Total non-CO2 emissions,Current Policies (Hot house world scenario),Mt CO2-equiv/yr,718.4123,820.8751,920.898,998.6049,1097.8146,1160.0784,1225.2051
+Emissions and CCS,Total non-CO2 emissions,Delayed Transition (Disorderly scenario),Mt CO2-equiv/yr,718.4123,820.8751,920.898,864.9668,871.4777,877.6934,878.6988
+Emissions and CCS,Total non-CO2 emissions,Fragmented World,Mt CO2-equiv/yr,718.4123,820.8751,920.898,905.6887,927.743,918.1534,923.0051
+Emissions and CCS,Total non-CO2 emissions,Low Demand,Mt CO2-equiv/yr,718.4123,825.1384,661.5374,666.1481,675.0309,694.2612,711.6555
+Emissions and CCS,Total non-CO2 emissions,Nationally Determined Contributions (NDCs),Mt CO2-equiv/yr,718.4123,825.1384,926.9075,989.4221,1074.5747,1100.5335,1130.6322
+Emissions and CCS,Total non-CO2 emissions,Net Zero 2050 (Orderly scenario),Mt CO2-equiv/yr,718.4123,825.1384,728.8388,721.2196,725.1595,724.1498,734.6338
+Emissions and CCS,Total non-CO2 emissions,Below 2°C,Mt CO2-equiv/yr,955.7107,1186.6836,1374.385,1508.5336,1630.9944,1701.446,1694.0996
+Emissions and CCS,Total non-CO2 emissions,Current Policies (Hot house world scenario),Mt CO2-equiv/yr,955.7107,1226.1234,1433.9554,1664.9201,1878.8204,2022.1491,2162.0401
+Emissions and CCS,Total non-CO2 emissions,Delayed Transition (Disorderly scenario),Mt CO2-equiv/yr,955.7107,1226.1234,1433.9554,1487.8095,1590.0002,1655.8784,1638.7777
+Emissions and CCS,Total non-CO2 emissions,Fragmented World,Mt CO2-equiv/yr,955.7107,1226.1234,1433.9554,1558.9724,1691.7093,1755.3482,1819.9318
+Emissions and CCS,Total non-CO2 emissions,Low Demand,Mt CO2-equiv/yr,955.7107,1079.8831,1148.6005,1088.6208,1017.7882,894.4662,775.5043
+Emissions and CCS,Total non-CO2 emissions,Nationally Determined Contributions (NDCs),Mt CO2-equiv/yr,955.7107,1177.7301,1373.8858,1595.6463,1799.8993,1958.8773,2082.383
+Emissions and CCS,Total non-CO2 emissions,Net Zero 2050 (Orderly scenario),Mt CO2-equiv/yr,955.7107,1175.9529,1357.8133,1406.7409,1477.2438,1525.7723,1549.8192
+Primary energy,Wind,Below 2°C,EJ/yr,0.8396,3.3179,5.1578,6.7837,8.2867,9.5312,10.6958
+Primary energy,Wind,Current Policies (Hot house world scenario),EJ/yr,0.8396,2.84,3.8379,4.5783,5.1856,5.5389,5.6929
+Primary energy,Wind,Delayed Transition (Disorderly scenario),EJ/yr,0.835,2.8341,3.8322,5.3885,7.1025,8.6342,9.9782
+Primary energy,Wind,Fragmented World,EJ/yr,0.8396,2.8401,3.8379,4.8491,6.1545,7.4033,8.4986
+Primary energy,Wind,Low Demand,EJ/yr,0.8396,2.879,4.2481,5.9518,7.7059,9.3821,10.5801
+Primary energy,Wind,Nationally Determined Contributions (NDCs),EJ/yr,0.8396,3.0487,4.1367,5.1569,5.7793,6.0226,6.2195
+Primary energy,Wind,Net Zero 2050 (Orderly scenario),EJ/yr,0.8396,3.3927,5.8372,7.9892,9.7755,11.6247,12.9023
+Primary energy,Wind,Below 2°C,EJ/yr,0.9321,2.2032,4.3193,5.2558,4.6675,5.1412,6.1212
+Primary energy,Wind,Current Policies (Hot house world scenario),EJ/yr,0.914,2.2728,2.1815,2.1834,1.7078,2.2126,2.2114
+Primary energy,Wind,Delayed Transition (Disorderly scenario),EJ/yr,0.9134,2.2678,2.1742,3.9112,5.9772,8.1508,8.8727
+Primary energy,Wind,Fragmented World,EJ/yr,0.9305,2.2702,2.164,3.4591,4.0329,4.2686,4.7096
+Primary energy,Wind,Low Demand,EJ/yr,0.9245,2.2307,5.6406,9.093,9.6099,9.184,8.3633
+Primary energy,Wind,Nationally Determined Contributions (NDCs),EJ/yr,0.9311,2.1973,2.2482,2.3125,2.2675,2.7714,3.3501
+Primary energy,Wind,Net Zero 2050 (Orderly scenario),EJ/yr,0.9331,2.2107,5.9856,9.6765,10.823,11.1984,10.8988
+Primary energy,Wind,Below 2°C,EJ/yr,0.6529,1.39,2.5497,4.1899,5.334,6.2103,6.8651
+Primary energy,Wind,Current Policies (Hot house world scenario),EJ/yr,0.6529,1.3334,2.1996,3.2308,3.8262,4.3112,4.6309
+Primary energy,Wind,Delayed Transition (Disorderly scenario),EJ/yr,0.6529,1.3334,2.1996,3.4529,4.6015,5.748,6.6017
+Primary energy,Wind,Fragmented World,EJ/yr,0.6529,1.3334,2.1996,3.318,4.3306,5.4775,6.3607
+Primary energy,Wind,Low Demand,EJ/yr,0.6529,1.2891,2.2293,3.3429,3.8394,4.1516,4.3713
+Primary energy,Wind,Nationally Determined Contributions (NDCs),EJ/yr,0.6529,1.4098,2.5492,4.0534,4.9704,5.6572,6.1141
+Primary energy,Wind,Net Zero 2050 (Orderly scenario),EJ/yr,0.6529,1.518,3.1602,5.2575,6.4921,7.3016,7.8983
